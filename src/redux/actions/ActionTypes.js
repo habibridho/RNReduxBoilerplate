@@ -1,0 +1,4 @@
+export const SETTINGS = {
+  ADD: "SETTINGS_ADD",
+  REMOVE: "SETTINGS_REMOVE"
+}
