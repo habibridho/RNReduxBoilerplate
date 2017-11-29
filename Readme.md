@@ -20,3 +20,7 @@ $ react-native run-ios
 $ rm -rf .git
 $ git init
 ```
+
+### Available RN version
+* 0.49.0
+* 0.50.4
