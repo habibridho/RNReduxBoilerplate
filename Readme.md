@@ -24,3 +24,5 @@ $ git init
 ### Available RN version
 * 0.49.0
 * 0.50.4
+* 0.51.0
+* 0.52.2
